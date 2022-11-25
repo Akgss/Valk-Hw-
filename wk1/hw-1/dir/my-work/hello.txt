@@ -1,0 +1,9 @@
+ls
+ls
+
+
+
+akhil@Akhils-MacBook-Pro util % ls
+lslskfjlsakf
+lasjkf;lkas;f;al;f
+pwd
